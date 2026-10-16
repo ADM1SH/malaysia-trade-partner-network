@@ -1,0 +1,22 @@
+flow_type,commodity,partner,rm_2025,rm_2026_8m,share_2026_pct
+Export,E&E Products,United States,146217.0,158315.0,24.1
+Export,E&E Products,Singapore,131492.0,110552.0,16.8
+Export,E&E Products,Hong Kong,82838.0,77270.0,11.8
+Export,E&E Products,"Taiwan, Province of China",59469.0,64283.0,9.8
+Export,E&E Products,China,73209.0,58620.0,8.9
+Export,Non-E&E Manufactured,United States,82972.0,81596.0,14.9
+Export,Non-E&E Manufactured,Singapore,103441.0,76084.0,13.9
+Export,Non-E&E Manufactured,China,82619.0,59638.0,10.9
+Export,Palm Oil,India,11193.0,8486.0,22.5
+Export,Palm Oil,Kenya,5231.0,2954.0,7.8
+Export,LNG,Japan,19973.0,14307.0,35.5
+Export,LNG,China,12908.0,11551.0,28.7
+Export,LNG,Republic of Korea,13990.0,9398.0,23.3
+Import,E&E Products,China,156497.0,156093.0,30.8
+Import,E&E Products,"Taiwan, Province of China",125951.0,101701.0,20.1
+Import,E&E Products,Singapore,59924.0,68053.0,13.4
+Import,Chemicals,China,23771.0,21736.0,31.8
+Import,Petroleum Products,Singapore,37991.0,31387.0,34.8
+Import,Petroleum Products,India,5423.0,10749.0,11.9
+Import,Machinery & Parts,China,41768.0,32299.0,34.9
+Import,Machinery & Parts,United States,23321.0,18181.0,19.7
